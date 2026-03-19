@@ -1,3 +1,5 @@
+package operators;
+
 // Arithmetic Operators in Java
 // Arithmetic operators are used to perform basic mathematical operations in Java.
 // The common arithmetic operators are:
